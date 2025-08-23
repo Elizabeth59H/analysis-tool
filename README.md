@@ -50,7 +50,7 @@ Recopila datos públicos de competidores como precios, redes sociales, novedades
 
 ## Contribuir
 
-¡Eres bienvenido a mejorar la herramienta! Puedes proponer nuevas fuentes de datos, mejorar los informes, o agregar funcionalidades.
+¡Eres bienvenido a mejorar la herramienta! Puedes proponer nuevas fuentes de datos, mejorar los informes, o agregar funcionalidades..
 
 ## Licencia
 
